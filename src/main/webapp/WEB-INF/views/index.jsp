@@ -10,7 +10,7 @@
 </head>
 <body>
 	Hello World!
-	하하하핳~
+	하하하핳~~
 	test : <%= now %>
 </body>
 </html>
